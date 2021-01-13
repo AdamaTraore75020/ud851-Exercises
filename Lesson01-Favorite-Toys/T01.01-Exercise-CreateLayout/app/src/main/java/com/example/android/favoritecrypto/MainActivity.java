@@ -15,8 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         //TODO (9) Utilise FindViewById pour avoir une référence de la TextView provenant du layout
 
-
-
         //TODO (10) Utilise la méthode static CryptoBox.getCryptoNames() pour boucler
         // (Boucle for classique ou foreach) dans la liste des cryptos et ajoute toutes les cryptos
         // dans la textview txvCrypto.

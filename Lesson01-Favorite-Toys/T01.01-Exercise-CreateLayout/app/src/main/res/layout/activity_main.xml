@@ -14,9 +14,8 @@
     <!--TODO (5) Change la taille du texte à 20sp-->
     <!--TODO (6) Ajoute un id au TextView : @+id/txv_crypto -->
     <TextView
-        android:id="@+id/txv_crypto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello CDA !"/>
 
 </FrameLayout>
